@@ -7,5 +7,10 @@ public class TmpService implements  ITmpService {
 		// TODO Auto-generated method stub
 		return "hello world";
 	}
+	@Override
+	public boolean isSuccess(boolean istr) {
+		// TODO Auto-generated method stub
+		return true;
+	}
 
 }
