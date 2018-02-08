@@ -8,7 +8,7 @@ public class TmpService implements  ITmpService {
 		return "hello world";
 	}
 	@Override
-	public boolean isSuccess(boolean istr) {
+	public boolean isSuccess() {
 		// TODO Auto-generated method stub
 		return true;
 	}

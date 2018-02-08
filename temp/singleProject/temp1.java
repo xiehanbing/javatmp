@@ -11,7 +11,7 @@ System.out.println("hello world");
 System.out.println("nice boy");
 String mString=_tmpService.message();
 System.out.println(mString);
-System.out.println(_tmpService.isSuccess(true));
+System.out.println(_tmpService.isSuccess());
 	}
 
 }
