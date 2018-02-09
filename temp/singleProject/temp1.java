@@ -20,5 +20,9 @@ public class temp1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("基本类型：byte 二进制位数:"+Byte.SIZE);
+		final double PI=3.1415927;
+		int hexa=0111;
+		System.out.println(hexa);
+		
 	}
 }
